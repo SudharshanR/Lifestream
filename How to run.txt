@@ -1,0 +1,6 @@
+How to run
+-----------
+
+1) Build the project using ant.
+2) Start respective servers by typing 'ant servername'. For instance, to start server1, command is "ant server1".
+3) Once all servers are started, type ant poke to start sending messages from client.

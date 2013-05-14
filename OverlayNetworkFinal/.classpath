@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="generated"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Rajan/Desktop/275/setu/core-netty/lib/bonecp-0.7.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rajan/Desktop/275/setu/core-netty/lib/com.googlecode.protoclipse_1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rajan/Desktop/275/setu/core-netty/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rajan/Desktop/275/setu/core-netty/lib/commons-lang-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rajan/Desktop/275/setu/core-netty/lib/guava-13.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rajan/Desktop/275/setu/core-netty/lib/h2-1.3.169.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rajan/Desktop/275/setu/core-netty/lib/jackson-all-1.8.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rajan/Desktop/275/setu/core-netty/lib/jts-1.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rajan/Desktop/275/setu/core-netty/lib/junit-4.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rajan/Desktop/275/setu/core-netty/lib/netty-3.5.3.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rajan/Desktop/275/setu/core-netty/lib/protobuf-java-2.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rajan/Desktop/275/setu/core-netty/lib/slf4j-api-1.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rajan/Desktop/275/setu/core-netty/lib/slf4j-simple-1.7.2.jar"/>
+	<classpathentry kind="lib" path="E:/My java projects/hibernate-search-4.2.0.Final-dist/hibernate-search-4.2.0.Final/dist/lib/required/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="E:/My java projects/hibernate-search-4.2.0.Final-dist/hibernate-search-4.2.0.Final/dist/lib/required/avro-1.6.3.jar"/>
+	<classpathentry kind="lib" path="E:/My java projects/hibernate-search-4.2.0.Final-dist/hibernate-search-4.2.0.Final/dist/lib/required/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/My java projects/hibernate-search-4.2.0.Final-dist/hibernate-search-4.2.0.Final/dist/lib/required/hibernate-commons-annotations-4.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="E:/My java projects/hibernate-search-4.2.0.Final-dist/hibernate-search-4.2.0.Final/dist/lib/required/hibernate-core-4.1.9.Final.jar"/>
+	<classpathentry kind="lib" path="E:/My java projects/hibernate-search-4.2.0.Final-dist/hibernate-search-4.2.0.Final/dist/lib/required/jackson-core-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="E:/My java projects/hibernate-search-4.2.0.Final-dist/hibernate-search-4.2.0.Final/dist/lib/required/jackson-mapper-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="E:/My java projects/hibernate-search-4.2.0.Final-dist/hibernate-search-4.2.0.Final/dist/lib/required/javassist-3.17.1-GA.jar"/>
+	<classpathentry kind="lib" path="E:/My java projects/hibernate-search-4.2.0.Final-dist/hibernate-search-4.2.0.Final/dist/lib/required/jboss-logging-3.1.0.GA.jar"/>
+	<classpathentry kind="lib" path="E:/My java projects/hibernate-search-4.2.0.Final-dist/hibernate-search-4.2.0.Final/dist/lib/required/lucene-core-3.6.2.jar"/>
+	<classpathentry kind="lib" path="E:/My java projects/hibernate-search-4.2.0.Final-dist/hibernate-search-4.2.0.Final/dist/lib/required/paranamer-2.3.jar"/>
+	<classpathentry kind="lib" path="E:/My java projects/hibernate-search-4.2.0.Final-dist/hibernate-search-4.2.0.Final/dist/lib/required/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/My java projects/hibernate-search-4.2.0.Final-dist/hibernate-search-4.2.0.Final/dist/lib/required/snappy-java-1.0.4.1.jar"/>
+	<classpathentry kind="lib" path="E:/My java projects/hibernate-search-4.2.0.Final-dist/hibernate-search-4.2.0.Final/dist/lib/provided/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="E:/My java projects/hibernate-search-4.2.0.Final-dist/hibernate-search-4.2.0.Final/dist/lib/provided/jms-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/My java projects/hibernate-search-4.2.0.Final-dist/hibernate-search-4.2.0.Final/dist/lib/provided/jsr250-api-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/My java projects/hibernate-search-4.2.0.Final-dist/hibernate-search-4.2.0.Final/dist/lib/provided/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rajan/Desktop/275/postgresql-9.2-1002.jdbc3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rajan/Desktop/275/keepitsecret_dnttellanyone.zip"/>
+	<classpathentry kind="lib" path="E:/My java projects/hibernate-search-4.2.0.Final-dist/hibernate-search-4.2.0.Final/dist/lib/optional/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="E:/My java projects/hibernate-search-4.2.0.Final-dist/hibernate-search-4.2.0.Final/dist/lib/optional/guava-r05.jar"/>
+	<classpathentry kind="lib" path="E:/My java projects/hibernate-search-4.2.0.Final-dist/hibernate-search-4.2.0.Final/dist/lib/optional/hibernate-entitymanager-4.1.9.Final.jar"/>
+	<classpathentry kind="lib" path="E:/My java projects/hibernate-search-4.2.0.Final-dist/hibernate-search-4.2.0.Final/dist/lib/optional/hibernate-search-analyzers-4.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="E:/My java projects/hibernate-search-4.2.0.Final-dist/hibernate-search-4.2.0.Final/dist/lib/optional/javassist-3.12.1.GA.jar"/>
+	<classpathentry kind="lib" path="E:/My java projects/hibernate-search-4.2.0.Final-dist/hibernate-search-4.2.0.Final/dist/lib/optional/lucene-analyzers-3.6.2.jar"/>
+	<classpathentry kind="lib" path="E:/My java projects/hibernate-search-4.2.0.Final-dist/hibernate-search-4.2.0.Final/dist/lib/optional/lucene-grouping-3.6.2.jar"/>
+	<classpathentry kind="lib" path="E:/My java projects/hibernate-search-4.2.0.Final-dist/hibernate-search-4.2.0.Final/dist/lib/optional/lucene-highlighter-3.6.2.jar"/>
+	<classpathentry kind="lib" path="E:/My java projects/hibernate-search-4.2.0.Final-dist/hibernate-search-4.2.0.Final/dist/lib/optional/lucene-kuromoji-3.6.2.jar"/>
+	<classpathentry kind="lib" path="E:/My java projects/hibernate-search-4.2.0.Final-dist/hibernate-search-4.2.0.Final/dist/lib/optional/lucene-memory-3.6.2.jar"/>
+	<classpathentry kind="lib" path="E:/My java projects/hibernate-search-4.2.0.Final-dist/hibernate-search-4.2.0.Final/dist/lib/optional/lucene-misc-3.6.2.jar"/>
+	<classpathentry kind="lib" path="E:/My java projects/hibernate-search-4.2.0.Final-dist/hibernate-search-4.2.0.Final/dist/lib/optional/lucene-phonetic-3.6.2.jar"/>
+	<classpathentry kind="lib" path="E:/My java projects/hibernate-search-4.2.0.Final-dist/hibernate-search-4.2.0.Final/dist/lib/optional/lucene-smartcn-3.6.2.jar"/>
+	<classpathentry kind="lib" path="E:/My java projects/hibernate-search-4.2.0.Final-dist/hibernate-search-4.2.0.Final/dist/lib/optional/lucene-spatial-3.6.2.jar"/>
+	<classpathentry kind="lib" path="E:/My java projects/hibernate-search-4.2.0.Final-dist/hibernate-search-4.2.0.Final/dist/lib/optional/lucene-spellchecker-3.6.2.jar"/>
+	<classpathentry kind="lib" path="E:/My java projects/hibernate-search-4.2.0.Final-dist/hibernate-search-4.2.0.Final/dist/lib/optional/lucene-stempel-3.6.2.jar"/>
+	<classpathentry kind="lib" path="E:/My java projects/hibernate-search-4.2.0.Final-dist/hibernate-search-4.2.0.Final/dist/lib/optional/solr-analysis-extras-3.6.2.jar"/>
+	<classpathentry kind="lib" path="E:/My java projects/hibernate-search-4.2.0.Final-dist/hibernate-search-4.2.0.Final/dist/lib/optional/solr-core-3.6.2.jar"/>
+	<classpathentry kind="lib" path="E:/My java projects/hibernate-search-4.2.0.Final-dist/hibernate-search-4.2.0.Final/dist/lib/optional/solr-solrj-3.6.2.jar"/>
+	<classpathentry kind="lib" path="E:/My java projects/hibernate-search-4.2.0.Final-dist/hibernate-search-4.2.0.Final/dist/lib/clustering/hibernate-search-infinispan-4.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="E:/My java projects/hibernate-search-4.2.0.Final-dist/hibernate-search-4.2.0.Final/dist/lib/clustering/infinispan-core-5.1.8.Final.jar"/>
+	<classpathentry kind="lib" path="E:/My java projects/hibernate-search-4.2.0.Final-dist/hibernate-search-4.2.0.Final/dist/lib/clustering/infinispan-lucene-directory-5.1.8.Final.jar"/>
+	<classpathentry kind="lib" path="E:/My java projects/hibernate-search-4.2.0.Final-dist/hibernate-search-4.2.0.Final/dist/lib/clustering/jboss-marshalling-1.3.11.GA.jar"/>
+	<classpathentry kind="lib" path="E:/My java projects/hibernate-search-4.2.0.Final-dist/hibernate-search-4.2.0.Final/dist/lib/clustering/jboss-marshalling-river-1.3.11.GA.jar"/>
+	<classpathentry kind="lib" path="E:/My java projects/hibernate-search-4.2.0.Final-dist/hibernate-search-4.2.0.Final/dist/lib/clustering/jgroups-3.0.14.Final.jar"/>
+	<classpathentry kind="lib" path="E:/My java projects/hibernate-search-4.2.0.Final-dist/hibernate-search-4.2.0.Final/dist/lib/clustering/rhq-pluginAnnotations-3.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/My java projects/hibernate-search-4.2.0.Final-dist/hibernate-search-4.2.0.Final/dist/lib/clustering/stax2-api-3.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/My java projects/hibernate-search-4.2.0.Final-dist/hibernate-search-4.2.0.Final/dist/lib/clustering/woodstox-core-asl-4.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
